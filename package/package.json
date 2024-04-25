@@ -1,0 +1,38 @@
+{
+  "name": "markdown-and-html",
+  "version": "1.0.0",
+  "description": "A JavaScript library for easy and efficient conversion of text between Markdown and HTML formats.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/F-goog/Markdown-And-HTML.git"
+  },
+  "keywords": [
+    "Markdown",
+    "HTML",
+    "Conversion",
+    "Text",
+    "Utility",
+    "Library",
+    "Tool",
+    "JavaScript",
+    "Format",
+    "Parser",
+    "Transformer",
+    "Markup",
+    "Syntax",
+    "Markdown-to-HTML"
+  ],
+  "author": "Pablo-_.sd._",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/F-goog/Markdown-And-HTML/issues"
+  },
+  "homepage": "https://github.com/F-goog/Markdown-And-HTML#readme",
+  "dependencies": {
+    "marked": "^12.0.2"
+  }
+}
