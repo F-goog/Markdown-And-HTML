@@ -10,4 +10,4 @@ A JavaScript library for easy and efficient conversion of text between Markdown 
 You can install `markdown-html-converter` using npm:
 
 ```bash
-npm install markdown-html-converter
+npm i @pablo_gex/markdown-and-html
